@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methodology
-permalink: /Methodology/
+permalink: /methodology
 ---
 ### Research
 
