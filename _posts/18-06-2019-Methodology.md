@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Methodology
-permalink: /methodology
 ---
 ### Research
 
